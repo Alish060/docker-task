@@ -1,3 +1,4 @@
+#название пайплайна
 name: golang-pipeline
 on: push
 jobs:
